@@ -70,30 +70,5 @@ Scan the QR code with Expo Go (iOS/Android) or press `w` for web preview.
 
 ---
 
-## How to Push to GitHub
-
-```bash
-# From the banking-platform/ root
-git init
-git add .
-git commit -m "feat: initial NovaPay digital banking platform"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/novapay-banking-platform.git
-git push -u origin main
-```
-
-Replace `YOUR_USERNAME` with your GitHub username.
-
----
-
-## Resume Bullets (Copy-Paste Ready)
-
-> **Digital Banking Platform Redesign (Web + iOS + Android)**  
-> - Built a responsive React web app and React Native mobile app featuring onboarding, account dashboard, transfers, and bill pay screens with a unified design system.  
-> - Architected reusable component libraries across platforms (web: CSS Modules + React; mobile: StyleSheet API + Expo), reducing UI duplication by ~60%.  
-> - Implemented accessible, WCAG 2.1 AA-compliant UI with smooth page transitions and micro-interactions aligned with modern fintech UX patterns.
-
----
-
 *Built by Vithin Reddy Sandadi — github.com/vithinreddy*
 # novapay-banking-platform
